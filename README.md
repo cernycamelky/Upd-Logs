@@ -8,5 +8,5 @@
   <h1>2053061125</h1>
   <p>Změněna velikost hypertextového odkazu z 26 na 67.</p>
 </body>
-</html>
+
 
